@@ -18,7 +18,7 @@ public class VerifyValidLogin {
 		
 	LoginPage logindetails=PageFactory.initElements(driver, LoginPage.class);
 	logindetails.login_wordpress("nitish.sajnani18@gmail.com","Nitish@9899");
-	
+	//login successful
 	}
 	
 }
